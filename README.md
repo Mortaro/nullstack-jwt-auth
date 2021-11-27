@@ -1,4 +1,8 @@
-# Jwt Login
+# Jwt Auth
+
+Serverless register and login sample application using Nullstack and JWT
+
+[![Watch the video](https://img.youtube.com/vi/wNXd8bDW-6E/maxresdefault.jpg)](https://youtu.be/wNXd8bDW-6E)
 
 <img src='https://raw.githubusercontent.com/nullstack/nullstack/master/nullstack.png' height='60' alt='Nullstack' />
 
